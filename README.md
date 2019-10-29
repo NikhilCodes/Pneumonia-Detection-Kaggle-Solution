@@ -9,6 +9,6 @@
 ![Img1](Samples/xray1.png)
 ![Img2](Samples/xray2.png)
 
-### Model Architecture
+## Model Architecture
 
 ![Model PNG](Samples/model.png)
